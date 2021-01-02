@@ -1,3 +1,3 @@
 compile:  javac main/Main.java
 
-run: java main.Main
+run: java main.Main go
